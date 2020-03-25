@@ -16,10 +16,10 @@ The list below contains the image requirements as confirmed by a Unity customer 
 * Screenshots: Suggested resolution is 2400 x 1600 pixels. The minimum resolution is 1200 pixels wide with any height. Unity scales screenshots for viewing, but users will have the option of viewing screenshots at full resolution.
 
 ## Number of Screenshots
-Unity recommends 5-10 screenshots per asset.
+Unity recommends 5-10 screenshots per asset. If possible, Hotpot recommends 10 screenshots because images convey information and tell stories more quickly than blocks of text. However, 10 is not a magic number, so please don't force more screenshots if not necessary. The goal is to show, not tell, as much as possible.
 
 ## Screenshot Tips
-* If possible, Hotpot recommends 10 screenshots because images convey information and tell stories more quickly than blocks of text. Aim to relay one benefit/feature per screenshot as opposed to cramming multiple benefits/features into one screenshot and making the screenshot too dense. 10 is not a magic number, however, so don't force more screenshots if not necessary. The goal is to show, not tell, as much as possible.
+* Aim to stress one benefit/feature per screenshot as opposed to cramming multiple benefits/features into one screenshot and making the screenshot too dense.
 
 * Treat each screenshot like a highway billboard. Assume users only glance at the screenshot for 5 seconds. Minimize text and emphasize imagery.
 
