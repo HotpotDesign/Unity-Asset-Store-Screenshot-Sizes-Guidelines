@@ -1,6 +1,8 @@
 # Unity Asset Store Screenshot Sizes & Guidelines
 This tutorial is written by https://hotpot.ai. Hotpot helps you create attractive [game assets](https://hotpot.ai/templates/game_asset?s=github), [App Store screenshots](https://hotpot.ai/templates/iphone_xs_max?s=github), [Google Play screenshots](https://hotpot.ai/templates/samsung_s9?s=github), [app icons](https://hotpot.ai/templates/app_store_icon), and other graphics for games, apps, and extensions.
 
+This guide on [Unity Asset Store Screenshots & Key Images](https://hotpot.ai/blog/unity_screenshots_and_key_images) was originally posted on Hotpot.ai, and is cross-referenced here for developer convenience.
+
 ## Overview
 Unity Asset Store images and screenshots are crucial for engaging prospective users. With so many publishers competing for attention, potential customers may only browse for a few seconds before deciding whether to download your asset.
 
